@@ -10,5 +10,6 @@ Na rede são partilhados:
 - o Caderno Eleitoral;
 - o Eleição;
 - o Candidatos.
+
 O projeto tambem conta com varias classes essenciais para o funcionamento e
 segurança de toda a aplicação.
